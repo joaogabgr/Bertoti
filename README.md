@@ -1,1 +1,6 @@
 # Bertoti
+O objetivo deste projeto é desenvolver um bot que automatiza a interação entre usuários e computadores, alinhado aos princípios da disciplina de Interação Humano-Computador. Por meio de uma interface intuitiva, o usuário se comunica com o bot via Telegram, que utiliza o Selenium para realizar buscas em sites de imóveis como QuintoAndar e Chaves na Mão. O bot filtra os resultados com base nos critérios especificados pelo usuário, incluindo aluguel ou venda, tipo de imóvel e faixa de preço.
+
+Este trabalho se fundamenta na transformação da linguagem natural em ações automatizadas, aplicando técnicas avançadas de inteligência artificial, como os modelos de linguagem discutidos em aula. O projeto transcende a ideia de um simples chatbot; estamos criando um agente capaz de executar tarefas complexas, como buscar imóveis em múltiplos sites simultaneamente e devolver os resultados diretamente no chat do Telegram. Dessa forma, o usuário economiza tempo e evita o esforço manual de acessar diferentes sites para realizar suas buscas.
+
+O projeto está alinhado com o objetivo da disciplina, que visa criar uma interface eficaz entre humanos e computadores, facilitando a busca por informações através de comandos simples em linguagem natural.
